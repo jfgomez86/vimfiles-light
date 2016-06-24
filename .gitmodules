@@ -1,3 +1,48 @@
 [submodule "submodules/pathogen"]
 	path = pathogen
 	url = https://github.com/tpope/vim-pathogen.git
+[submodule "colors/base16-vim"]
+	path = colors/base16-vim
+	url = https://github.com/chriskempson/base16-vim.git
+[submodule "colors/github"]
+	path = colors/github
+	url = https://github.com/telamon/vim-color-github.git
+[submodule "colors/janus-colors"]
+	path = colors/janus-colors
+	url = https://github.com/TechnoGate/janus-colors.git
+[submodule "colors/pyte"]
+	path = colors/pyte
+	url = https://github.com/vim-scripts/pyte.git
+[submodule "colors/solarized"]
+	path = colors/solarized
+	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule "colors/tomorrow-theme"]
+	path = colors/tomorrow-theme
+	url = https://github.com/chriskempson/vim-tomorrow-theme.git
+[submodule "colors/ir_black"]
+	path = colors/ir_black
+	url = https://github.com/twerth/ir_black.git
+[submodule "colors/molokai"]
+	path = colors/molokai
+	url = https://github.com/vim-scripts/molokai.git
+[submodule "colors/vividchalk"]
+	path = colors/vividchalk
+	url = https://github.com/tpope/vim-vividchalk.git
+[submodule "colors/Colour-Sampler-Pack"]
+	path = colors/Colour-Sampler-Pack
+	url = https://github.com/vim-scripts/Colour-Sampler-Pack.git
+[submodule "extras/matchit"]
+	path = extras/matchit
+	url = https://github.com/edsono/vim-matchit.git
+[submodule "extras/surround"]
+	path = extras/surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "extras/endwise"]
+	path = extras/endwise
+	url = https://github.com/tpope/vim-endwise.git
+[submodule "extras/ctrlp"]
+	path = extras/ctrlp
+	url = https://github.com/kien/ctrlp.vim.git
+[submodule "extras/trailing-whitespace"]
+	path = extras/trailing-whitespace
+	url = https://github.com/bronson/vim-trailing-whitespace.git
