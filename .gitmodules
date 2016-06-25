@@ -46,3 +46,6 @@
 [submodule "extras/trailing-whitespace"]
 	path = extras/trailing-whitespace
 	url = https://github.com/bronson/vim-trailing-whitespace.git
+[submodule "extras/syntastic"]
+	path = extras/syntastic
+	url = https://github.com/scrooloose/syntastic.git
