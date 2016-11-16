@@ -31,9 +31,6 @@
 [submodule "colors/Colour-Sampler-Pack"]
 	path = colors/Colour-Sampler-Pack
 	url = https://github.com/vim-scripts/Colour-Sampler-Pack.git
-[submodule "extras/matchit"]
-	path = extras/matchit
-	url = https://github.com/edsono/vim-matchit.git
 [submodule "extras/surround"]
 	path = extras/surround
 	url = https://github.com/tpope/vim-surround.git

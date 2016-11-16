@@ -24,6 +24,8 @@ set visualbell t_vb=    " Don't beep
 
 set hidden              " Don't prompt to save when switching buffers
 
+set noswapfile          " Don't use swap files
+
 " My Custom Mappings
 map <c-b> :CtrlPBuffer<CR>
 set wildignore+=.git/**
