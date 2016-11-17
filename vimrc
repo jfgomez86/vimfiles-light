@@ -9,7 +9,7 @@ execute pathogen#infect("~/.vim/colors/{}", "~/.vim/extras/{}")
 
 " Colorscheme
 set background=dark
-color vibrantink
+color solarized
 
 " Customizations
 set relativenumber
