@@ -46,3 +46,6 @@
 [submodule "extras/syntastic"]
 	path = extras/syntastic
 	url = https://github.com/scrooloose/syntastic.git
+[submodule "extras/vim-openscad"]
+	path = extras/vim-openscad
+	url = https://github.com/sirtaj/vim-openscad.git
