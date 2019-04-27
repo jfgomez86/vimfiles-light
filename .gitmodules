@@ -49,3 +49,6 @@
 [submodule "extras/vim-openscad"]
 	path = extras/vim-openscad
 	url = https://github.com/sirtaj/vim-openscad.git
+[submodule "extras/vim-swift"]
+	path = extras/vim-swift
+	url = https://github.com/kballard/vim-swift.git
