@@ -17,7 +17,7 @@ set guioptions-=m       " Can't remember :)
 set guioptions-=T       " No toolbars
 set guioptions-=r       " No scrollbars
 
-set guifont=Monaco\ 12
+set guifont=Monaco:h14
 
 set visualbell t_vb=    " Don't beep
 
