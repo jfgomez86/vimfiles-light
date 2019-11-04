@@ -1,3 +1,7 @@
 Goals:
 
-To make CHIP (https://getchip.com/pages/pocketchip) load vim under 2 seconds.
+To make a portable config repository that I can use for multiple purposes
+without compromising performance. Some of the environments (with branches):
+
+* Plain -> master
+* RoR -> rails-dev
