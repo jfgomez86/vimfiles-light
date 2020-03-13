@@ -52,12 +52,12 @@
 [submodule "extras/vim-swift"]
 	path = extras/vim-swift
 	url = https://github.com/kballard/vim-swift.git
-[submodule "extras/spacedust.vim"]
-	path = extras/spacedust.vim
-	url = https://github.com/marcelbeumer/spacedust.vim
-[submodule "extras/javascript-syntax.vim"]
-	path = extras/javascript-syntax.vim
-	url = https://github.com/marcelbeumer/javascript-syntax.vim.git
 [submodule "extras/vim-outlaw"]
 	path = extras/vim-outlaw
 	url = https://github.com/lifepillar/vim-outlaw.git
+[submodule "extras/spacedust.vim"]
+	path = extras/spacedust.vim
+	url = https://github.com/marcelbeumer/spacedust.vim.git
+[submodule "extras/javascript-syntax.vim"]
+	path = extras/javascript-syntax.vim
+	url = https://github.com/marcelbeumer/javascript-syntax.vim.git
