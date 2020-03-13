@@ -8,7 +8,8 @@ execute pathogen#infect("~/.vim/colors/{}", "~/.vim/extras/{}")
 
 
 " Colorscheme
-color spacedust
+set background=dark
+color Mustang
 
 " Customizations
 set relativenumber
@@ -17,7 +18,7 @@ set guioptions-=m       " Can't remember :)
 set guioptions-=T       " No toolbars
 set guioptions-=r       " No scrollbars
 
-set guifont=Monaco:h14
+set guifont=Menlo\ Regular:h14
 
 set visualbell t_vb=    " Don't beep
 
