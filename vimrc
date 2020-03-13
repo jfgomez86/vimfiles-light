@@ -6,6 +6,9 @@ source ~/.vim/defaults.vim
 
 execute pathogen#infect("~/.vim/colors/{}", "~/.vim/extras/{}")
 
+" Load filetype plugins and enable syntax highlighting and indentation plugins
+filetype plugin indent on
+syntax on
 
 " Colorscheme
 set background=dark

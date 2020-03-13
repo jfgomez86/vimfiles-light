@@ -58,6 +58,9 @@
 [submodule "extras/javascript-syntax.vim"]
 	path = extras/javascript-syntax.vim
 	url = https://github.com/marcelbeumer/javascript-syntax.vim.git
+[submodule "extras/vim-outlaw"]
+	path = extras/vim-outlaw
+	url = https://github.com/lifepillar/vim-outlaw.git
 [submodule "extras/vim-rails"]
 	path = extras/vim-rails
 	url = https://github.com/tpope/vim-rails.git
