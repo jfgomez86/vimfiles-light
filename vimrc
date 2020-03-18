@@ -36,3 +36,6 @@ set wildignore+=.git/**
 let g:airline_powerline_fonts = 1 
 
 set modeline
+
+let g:outlaw_fenced_filetypes = ['sql']
+let g:outlaw_auto_close = 0
