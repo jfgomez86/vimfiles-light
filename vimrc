@@ -12,7 +12,7 @@ syntax on
 
 " Colorscheme
 set background=dark
-color Mustang
+color morning
 
 " Customizations
 set relativenumber
@@ -21,7 +21,7 @@ set guioptions-=m       " Can't remember :)
 set guioptions-=T       " No toolbars
 set guioptions-=r       " No scrollbars
 
-set guifont=Menlo\ Regular:h14
+set guifont=Menlo:h14
 
 set visualbell t_vb=    " Don't beep
 
@@ -36,6 +36,3 @@ set wildignore+=.git/**
 let g:airline_powerline_fonts = 1 
 
 set modeline
-
-let g:outlaw_fenced_filetypes = ['sql']
-let g:outlaw_auto_close = 0

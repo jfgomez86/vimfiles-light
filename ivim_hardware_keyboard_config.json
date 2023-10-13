@@ -1,0 +1,10 @@
+{
+  "en-US" : {
+    "letters" : "abcdefghijklmnopqrstuvwxyz",
+    "symbols" : "`-=~!@#$%^&*()_+[]\\{}|;':\",.\/<>?",
+    "mappings" : {
+
+    },
+    "version" : "0.0.1"
+  }
+}
