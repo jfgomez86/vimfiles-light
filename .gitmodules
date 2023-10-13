@@ -44,17 +44,11 @@
 	path = extras/trailing-whitespace
 	url = https://github.com/bronson/vim-trailing-whitespace.git
 [submodule "extras/syntastic"]
-	path = extras/syntastic
-	url = https://github.com/scrooloose/syntastic.git
 [submodule "extras/vim-openscad"]
-	path = extras/vim-openscad
-	url = https://github.com/sirtaj/vim-openscad.git
 [submodule "extras/vim-swift"]
 	path = extras/vim-swift
 	url = https://github.com/kballard/vim-swift.git
 [submodule "extras/vim-outlaw"]
-	path = extras/vim-outlaw
-	url = https://github.com/lifepillar/vim-outlaw.git
 [submodule "extras/spacedust.vim"]
 	path = extras/spacedust.vim
 	url = https://github.com/marcelbeumer/spacedust.vim.git
